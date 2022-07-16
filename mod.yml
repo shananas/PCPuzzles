@@ -1,0 +1,21 @@
+name: PCPuzzleEdits
+originalAuthor: Shananas
+assets:
+
+#Puzzles
+- name: menu/jm_puzzle/puzzle010.bin
+  method: copy
+  source:
+  - name: menu/puzzle010.bin
+- name: menu/jm_puzzle/puzzle020.bin
+  method: copy
+  source:
+  - name: menu/puzzle020.bin
+- name: menu/jm_puzzle/puzzle030.bin
+  method: copy
+  source:
+  - name: menu/puzzle030.bin
+- name: menu/jm_puzzle/puzzle050.bin
+  method: copy
+  source:
+  - name: menu/puzzle050.bin
